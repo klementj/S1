@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX05Arithmetic", "EX05Arith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06aComparisonOperators", "EX06aComparisonOperators\EX06aComparisonOperators.csproj", "{83112ABD-316C-468D-8F31-18C0B2384B17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06bComparisonOperators", "EX06bComparisonOperators\EX06bComparisonOperators.csproj", "{1AAAC888-CF55-4C79-A400-925D56E3E947}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{83112ABD-316C-468D-8F31-18C0B2384B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83112ABD-316C-468D-8F31-18C0B2384B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83112ABD-316C-468D-8F31-18C0B2384B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAAC888-CF55-4C79-A400-925D56E3E947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAAC888-CF55-4C79-A400-925D56E3E947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAAC888-CF55-4C79-A400-925D56E3E947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAAC888-CF55-4C79-A400-925D56E3E947}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
