@@ -16,11 +16,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX04ReadLine", "EX04ReadLine\EX04ReadLine.csproj", "{23FDA1F4-DD4A-4293-83C3-342B2733F132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX05Arithmetic", "EX05Arithmetic\EX05Arithmetic.csproj", "{D769E500-0D94-4C28-9F2D-B36279F2F517}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX05Arithmetic", "EX05Arithmetic\EX05Arithmetic.csproj", "{D769E500-0D94-4C28-9F2D-B36279F2F517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06aComparisonOperators", "EX06aComparisonOperators\EX06aComparisonOperators.csproj", "{83112ABD-316C-468D-8F31-18C0B2384B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX06aComparisonOperators", "EX06aComparisonOperators\EX06aComparisonOperators.csproj", "{83112ABD-316C-468D-8F31-18C0B2384B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06bComparisonOperators", "EX06bComparisonOperators\EX06bComparisonOperators.csproj", "{1AAAC888-CF55-4C79-A400-925D56E3E947}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX06bComparisonOperators", "EX06bComparisonOperators\EX06bComparisonOperators.csproj", "{1AAAC888-CF55-4C79-A400-925D56E3E947}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX07SelectionIfElse", "EX07SelectionIfElse\EX07SelectionIfElse.csproj", "{8EF6F0BF-8B34-4F2A-9D9F-59363AC04E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX13Arrays", "EX13Arrays\EX13Arrays.csproj", "{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +60,14 @@ Global
 		{1AAAC888-CF55-4C79-A400-925D56E3E947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AAAC888-CF55-4C79-A400-925D56E3E947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AAAC888-CF55-4C79-A400-925D56E3E947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF6F0BF-8B34-4F2A-9D9F-59363AC04E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF6F0BF-8B34-4F2A-9D9F-59363AC04E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF6F0BF-8B34-4F2A-9D9F-59363AC04E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF6F0BF-8B34-4F2A-9D9F-59363AC04E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
