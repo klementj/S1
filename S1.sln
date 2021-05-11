@@ -26,6 +26,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX07SelectionIfElse", "EX07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX13Arrays", "EX13Arrays\EX13Arrays.csproj", "{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX14Lists", "EX14Lists\EX14Lists.csproj", "{40B001A2-EE46-4189-B1B6-1A2BC59934FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25BCCA94-1FD6-42FA-B328-E92AB3F6CD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B001A2-EE46-4189-B1B6-1A2BC59934FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B001A2-EE46-4189-B1B6-1A2BC59934FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B001A2-EE46-4189-B1B6-1A2BC59934FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B001A2-EE46-4189-B1B6-1A2BC59934FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
