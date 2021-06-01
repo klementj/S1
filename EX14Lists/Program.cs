@@ -75,7 +75,7 @@ namespace EX14Lists
                 Console.WriteLine(age);
             }
 
-            newAges.RemoveAt(2); // Fjerner tallet paa plads 3
+            newAges.RemoveAt(2); // Fjerner tallet paa plads 3 [index 2]
 
             foreach (int age in newAges)
             {
